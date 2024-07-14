@@ -12,7 +12,8 @@ $ mkdir build
 $ cd build
 $ cmake ..
 # Ends up with two types of files
-# liblog_mel_spectrogram_cpp.so  log_mel_spectrogram.cpython-310-x86_64-linux-gnu.so
+# For Linux - liblog_mel_spectrogram_cpp.so  py_log_mel_spectrogram.cpython-310-x86_64-linux-gnu.so
+# For Windows - log_mel_spectrogram.dll py_log_mel_spectrogram.cp310-win_amd64.pyd
 ```
 
 # License
